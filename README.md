@@ -155,6 +155,9 @@ Importbibliothek nötig; es muss lediglich die kostenlose NDI-Runtime installier
 Der Quellcode dieses Projekts wird von der NDI-Runtime **nicht** mitgeliefert; er lädt
 sie zur Laufzeit aus der Installation des Anwenders.
 
+Ausführliche Angaben inkl. Hinweisen zu FFmpeg/OpenCV und zur NDI-Marke:
+siehe [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md).
+
 ### Wichtig für kommerzielle Nutzung
 
 Die NDI-SDK-Lizenz wurde 2025 geändert und ist nicht mehr uneingeschränkt
