@@ -1,0 +1,12 @@
+# Standardmäßig Textdateien normalisieren (LF im Repo, je nach System auschecken)
+* text=auto
+
+*.cs    text diff=csharp
+*.xaml  text
+*.csproj text
+*.sln   text eol=crlf
+*.md    text
+*.ps1   text eol=crlf
+
+*.png binary
+*.ico binary
