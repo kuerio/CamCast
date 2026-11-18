@@ -183,3 +183,14 @@ eigenverantwortlich. CamCast nutzt diese Codecs nicht direkt.
 ## Markenhinweis
 
 NDI® ist eine eingetragene Marke von Vizrt NDI AB.
+
+## Lizenz
+
+Dieses Projekt steht unter der **MIT-Lizenz** – siehe [`LICENSE`](LICENSE).
+Angaben zu Fremdkomponenten (NuGet, FFmpeg/OpenCV, .NET) siehe
+[`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md).
+
+Wichtig: CamCast bindet die proprietäre **NDI-Runtime** von Vizrt NDI AB nur zur
+Laufzeit ein und liefert sie **nicht** mit. Für die Nutzung von NDI gelten zusätzlich
+die Lizenzbedingungen von Vizrt NDI AB (<https://ndi.video>) – siehe
+[`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md).
